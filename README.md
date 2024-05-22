@@ -16,7 +16,7 @@ It consists of 3 tests, each in its own directory: `test1`, `test2`, and `test3`
 
 To run the a client and server, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Fork & Clone this repository to your local machine.
 2. Open a terminal and navigate to a `server` directory with the following command:
     ```
     cd clientservertest/testX/server
