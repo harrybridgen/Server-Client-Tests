@@ -1,4 +1,4 @@
-# MiniQuest Client-Server Test
+# Client-Server Test
 
 This repository contains a simple client-server tests for 2D games.
 It consists of 3 tests, each in its own directory: `test1`, `test2`, and `test3`.
